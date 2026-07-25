@@ -20,6 +20,8 @@
 @import "../node_modules/preline/css/themes/cashmere.css";
 @import "../node_modules/preline/css/themes/olive.css";
 @import "./themes/default.css";
+@import "./themes/spinner.css";
+@import "./themes/marquee.css";
 
 /* Adds pointer cursor to buttons */
 @layer base {
